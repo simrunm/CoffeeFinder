@@ -1,0 +1,8 @@
+Peets,https://www.amazon.com/Peets-Coffee-Balanced-American-Coffees/product-reviews/B005GBXKD2/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Community,https://www.amazon.com/Community-Coffee-Signature-Premium-Arabica/product-reviews/B00CXXKE9O/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Yuban,https://www.amazon.com/Yuban-Ground-Coffee-Roast-Ounce/product-reviews/B01LX42XON/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Seattles Best,https://www.amazon.com/Seattles-Best-Coffee-Organic-12-Ounce/product-reviews/B01N9TN82B/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Maxwells House,https://www.amazon.com/Maxwell-Intense-Ground-Coffee-Canister/product-reviews/B01M10RKLY/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Folgers,https://www.amazon.com/Folgers-Ground-Coffee-Roast-Caffeinated/product-reviews/B07QQ7N1F5/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Ravens,https://www.amazon.com/Ravens-Brew-Coffee-Naturally-Caffeine/product-reviews/B07VFKBSP6/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
+Koffee Kult,https://www.amazon.com/Koffee-Kult-Roast-Coffee-Beans/product-reviews/B00PV4FG3Q/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews
