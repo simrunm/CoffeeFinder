@@ -1,5 +1,5 @@
 ## Project Information
-#### Team Members: Simrun Mutha & Melody Chiu
+### Team Members: Simrun Mutha & Melody Chiu
 
 The goal of this CoffeeFinder project is to find what makes each coffee brand unique in terms of flavor. In order to do this, our project involves four major portions of code:
 
